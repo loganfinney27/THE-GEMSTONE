@@ -1,18 +1,4 @@
-# Quartz v4
+# The Gemstone
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
-
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+>*If the press is not free; if speech is not independent and untrammeled; if the mind is shackled or made impotent through fear*, it makes no difference under what form of government you live, you are a subject and not a citizen.
+— **U.S. Sen. William E. Borah**, 1917
