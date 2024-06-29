@@ -12,28 +12,28 @@
 # CATEGORIES 
 
 ## Tailing
-![[Tailing]]
+![[TAILING]]
 ## Cut
-![[Cut]]
+![[CUT]]
 ## Facet
-![[Facet]]
+![[FACET]]
 ## Fracture
-![[Fracture]]
+![[FRACTURE]]
 ## Sculpture
-![[Statue]]
+![[STATUE]]
 ## Frieze 
-![[Frieze]]
+![[FRIEZE]]
 ## Inlay
-![[Inlay]]
+![[INLAY]]
 
 ---
 
 >*If the press is not free; if speech is not independent and untrammeled; if the mind is shackled or made impotent through fear*, it makes no difference under what form of government you live, you are a subject and not a citizen.
 — **U.S. Sen. William E. Borah**, 1917
 
-**HOME** | [[content/index|The Gemstone]] | [[About]] |
+**HOME** | [[content/index|THE GEMSTONE]] | [[ABOUT]] |
 
-**CATEGORIES** | [[Tailing]] | [[Cut]] | [[Facet]] | [[Fracture]] | [[Statue]] | [[Frieze]] | [[Inlay]] |
+**CATEGORIES** | [[TAILING]] | [[CUT]] | [[FACET]] | [[FRACTURE]] | [[STATUE]] | [[FRIEZE]] | [[INLAY]] |
 
 **WEB** | [[index.xml|TEXT RSS]] | [[RSS.xml|AUDIO RSS]] | [PATREON](https://www.patreon.com/) | [SHOP](https://www.youtube.com/watch?v=dQw4w9WgXcQ/) |
 

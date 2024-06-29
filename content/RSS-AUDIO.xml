@@ -4,8 +4,8 @@
     <title>The Gemstone</title>
     <itunes:author>The Gemstone</itunes:author>
     <description>description</description>
-    <itunes:image href="https://www.thegemstone.org/home/web/images/podcast.jpg"/>
-    <link>https://www.thegemstone.org/home/about/</link>
+    <itunes:image href="https://www.thegemstone.org/images/gemstone-pod.jpg"/>
+    <link>https://www.thegemstone.org</link>
     <language>en-us</language>
     <copyright>&#169; 2024</copyright>
     <itunes:type>serial</itunes:type>

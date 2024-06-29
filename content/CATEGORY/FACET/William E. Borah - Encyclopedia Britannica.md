@@ -1,7 +1,7 @@
 ---
 tags:
   - Facet
-category: "[[Facet]]"
+category: "[[FACET]]"
 ---
 [[William E. Borah]] (born June 29, 1865, Fairfield, Ill., U.S.—died Jan. 19, 1940, Washington, D.C.) was a Republican U.S. senator from [[Idaho]] for 33 years, best known for his major role at the end of World War I (1918) in preventing the United States from joining the League of Nations and the World Court.
 
