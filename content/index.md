@@ -4,9 +4,7 @@ aliases:
   - THE GEMSTONE
   - The Gemstone
 ---
-![[gemstone-main.png]]
-
-![[landscape.jpg]]
+![[gemstone-header.jpg]]
 
 # Welcome
 

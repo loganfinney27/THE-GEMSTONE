@@ -5,10 +5,6 @@
 
 **[[content/index|The Gemstone]]** is an independent publication about [[Idaho]]. 
 
-
-
-![[content/IMAGES/river-desert.jpg]]
-
 # CATEGORIES 
 
 ## Tailing
