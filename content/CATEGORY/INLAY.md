@@ -3,6 +3,4 @@ tags:
   - Category
   - Inlay
 ---
-
-
-Collages
+Imagined magazine covers
