@@ -10,12 +10,12 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "⟣⟡⟢",
     enableSPA: true,
-    enablePopovers: true,
+    enablePopovers: false,
     analytics: null,
     locale: "en-US",
     baseUrl: "thegemstone.org",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified",
+    defaultDateType: "published",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -52,7 +52,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["frontmatter", "git"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -61,7 +61,7 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),

@@ -1,5 +1,0 @@
----
-tags:
-  - Fracture
----
-![[lake.jpg]]

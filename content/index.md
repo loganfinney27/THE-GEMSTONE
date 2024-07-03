@@ -1,37 +1,24 @@
 ---
-title: THE GEMSTONE
+title: The Gemstone
 aliases:
-  - THE GEMSTONE
-  - The Gemstone
+  - Home
 ---
 ![[gemstone-header.jpg]]
 
-# Welcome
+[[Idaho]] is many things. It's many places inhabited by many people.
 
-[[Idaho]] is many things. Just like a gemstone, the Gem State 
+What does it take to make Idaho?
 
-> Quote test
-> - Test Quote, 1995
+# Prospector, Miner, Lapidarist, Jeweler
 
-	CODE
+![[river-desert.jpg]]
 
-So, 
+Just like a gemstone, the Gem State... 
+# What's Next
 
 ![[sapling.jpg]]
 
-# What's Next
-
-The Gemstone 
+Find more [[About|here]].
 
 >*If the press is not free; if speech is not independent and untrammeled; if the mind is shackled or made impotent through fear*, it makes no difference under what form of government you live, you are a subject and not a citizen.
-— **U.S. Sen. [[William E. Borah]]**, 1917
-
----
-
-**HOME** | [[content/index|THE GEMSTONE]] | [[ABOUT]] |
-
-**CATEGORIES** | [[TAILING]] | [[CUT]] | [[FACET]] | [[FRACTURE]] | [[STATUE]] | [[FRIEZE]] | [[INLAY]] |
-
-**WEB** | [[index.xml|TEXT RSS]] | [[RSS-AUDIO.xml|AUDIO RSS]] | [PATREON](https://www.patreon.com/) | [SHOP](https://www.youtube.com/watch?v=dQw4w9WgXcQ/) |
-
-**&#169; The Gemstone 2024**
+>>— **U.S. Sen. William E. Borah**, 1917

@@ -7,7 +7,10 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      Home: "https://thegemstone.org/",
+      "HOME": "https://thegemstone.org/",
+      "ABOUT": "https://thegemstone.org/about",
+      "RSS Text": "https://thegemstone.org/index.xml",
+      "RSS Audio": "https://thegemstone.org/RSS.xml",
     },
   }),
 }
@@ -16,7 +19,6 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.Breadcrumbs(),
-    Component.TagList(),
   ],
   left: [
     Component.PageTitle(),
