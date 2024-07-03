@@ -1,7 +1,7 @@
 ---
 tags:
   - Facet
-date:
+date: 09/01/1921
 ---
 # Sen. William Borah, (R)-Idaho
 

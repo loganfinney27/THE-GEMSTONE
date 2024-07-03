@@ -1,7 +1,7 @@
 ---
 tags:
   - Facet
-date:
+date: 08/18/1975
 ---
 # Sen. Frank Church, (D)-Idaho
 ## Chairman, Select Committee on Intelligence Activities
