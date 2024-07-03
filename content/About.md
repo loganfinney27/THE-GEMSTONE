@@ -2,7 +2,7 @@
 
 # MASTHEAD
 
-**[[index|The Gemstone]]** is an independent publication about [[Idaho]]. 
+**[[index|The Gemstone]]** is an independent outlet about [[Idaho]]. Well, it's about a lot more than that.
 
 ![[IMAGES/IdahoCutDiagram.jpg]]
 

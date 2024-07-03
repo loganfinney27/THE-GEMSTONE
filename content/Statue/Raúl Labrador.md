@@ -2,4 +2,4 @@
 tags:
   - Statue
 ---
-Republican [[Idaho]] Attorney General and Congressman
+Republican [[Idaho]] Attorney General and Representative
