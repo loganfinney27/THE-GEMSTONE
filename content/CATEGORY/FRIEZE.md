@@ -3,6 +3,6 @@ tags:
   - Category
   - Frieze
 ---
-*A horizontal band of sculpted figures*
+*Horizontal bands of sculpted figures*
 
 Landscapes, places, communities 

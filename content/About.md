@@ -1,26 +1,14 @@
 ![[IMAGES/IdahoCutDiagram.jpg]]
-
 # Masthead
-
 **[[content/index|The Gemstone]]** is an independent publication about [[Idaho]]. 
-
 # CATEGORIES 
-
-## Tailing
-![[TAILING]]
-## Cut
-![[CUT]]
-## Facet
-![[FACET]]
-## Fracture
-![[FRACTURE]]
-## Sculpture
-![[STATUE]]
-## Frieze 
-![[FRIEZE]]
-## Inlay
-![[INLAY]]
-
+## ![[TAILING]]
+## ![[CUT]]
+## ![[FACET]]
+## ![[FRACTURE]]
+## ![[STATUE]]
+## ![[FRIEZE]]
+## ![[INLAY]]
 ---
 
 **HOME** | [[content/index|THE GEMSTONE]] | [[ABOUT]] |

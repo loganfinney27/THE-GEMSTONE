@@ -5,6 +5,4 @@ tags:
 ---
 *Carved statues of people*
 
-Profiles of individuals
-
-![[William E. Borah]] 
+Profiles of individuals 
