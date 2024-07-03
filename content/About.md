@@ -1,6 +1,4 @@
 ![[IMAGES/IdahoCutDiagram.jpg]]
-# Masthead
-**[[content/index|The Gemstone]]** is an independent publication about [[Idaho]]. 
 # CATEGORIES 
 ## ![[TAILING]]
 ## ![[CUT]]
@@ -9,6 +7,9 @@
 ## ![[STATUE]]
 ## ![[FRIEZE]]
 ## ![[INLAY]]
+# MASTHEAD
+**[[content/index|The Gemstone]]** is an independent publication about [[Idaho]]. 
+
 ---
 
 **HOME** | [[content/index|THE GEMSTONE]] | [[ABOUT]] |

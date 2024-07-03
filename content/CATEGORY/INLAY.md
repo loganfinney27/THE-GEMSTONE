@@ -6,3 +6,5 @@ tags:
 *Embedded pieces of different materials*
 
 Imagined magazine covers
+
+---
