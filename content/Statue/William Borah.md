@@ -1,8 +1,13 @@
 ---
 tags:
   - Statue
+aliases:
+  - Senator Borah
+  - William Edgar Borah
+  - William E. Borah
+  - Lion of Idaho
 ---
-Republican [[Idaho]] Senator
+Republican [[Idaho]] U.S. Senator
 # The Lion of Idaho
 
 ![[william-e-borah-at-white-house-washington-dc-1024.jpg]]
@@ -13,8 +18,3 @@ Republican [[Idaho]] Senator
 >>— **U.S. Sen. William Borah**, 1917
 
 ---
-# Facets
-
-- [[Borah - Encyclopedia Britannica]]
-- [[Borah - Senate Biography]]
-- [[Borah - 1921 - Necessity for Naval Disarmament]] 

@@ -1,11 +1,10 @@
 ---
 tags:
   - Facet
-date: 09/01/1921
+  - Speeches
+date: 1921-09-01
 ---
-# Sen. William Borah, (R)-Idaho
-
----
+# Sen. [[William Borah]], (R)-Idaho
 
 Despite her military defeat, Germany, by reason of the shortsighted and blundering policies of the allied and associated powers, may yet secure economic dominance in Europe. Defeat has resulted in Germany’s being deprived of her army and her navy. *The burden of armaments has been forced from the backs of the German people. **They may now devote their energies and their talents to agriculture, to industry, to the arts, to the things which constitute the real wealth and strength of a people.** Their genius will find expression, not in arms, or on the military field, but in improved machinery and cooperative industry.* Every ounce of effort which they put forth will be along lines which produce something, which add wealth to the community, which make for contentment and prosperity to the people, which insure greater physical prowess and a higher brain power.
 
@@ -38,8 +37,7 @@ There will always be questions of commercial rivalry, matters of difference betw
 For myself, I refuse to concede time - **force** is the only power left, or that it should be the dominating and controlling power. *It cannot be possible. **Reason and justice must still have their place in the affairs of the world**, and if leaders and statesmen are strong enough to place their reliance upon them,* they will go far. I venture to declare, in the face of professional militarists, *that **no nation can long defy the public opinion of the civilized world** – and especially no government can long defy the public opinion of their own people.* And if this conference is conducted as ***an appeal to the public opinion of the world* and to the public opinions of the peoples of the respective countries**, it will accomplish far more than if it is conducted under the *constant threat of dominating armaments*…
 
 ---
-[^1] [[William Borah]] “William E. Borah on the Necessity for Naval Disarmament, September 1921”. Essay, September, 1921. From *Teaching American History*. https://teachingamericanhistory.org/document/william-e-borah-on-the-necessity-for-naval-disarmament-september-1921/ 
+
+[^1] “William E. Borah on the Necessity for Naval Disarmament, September 1921”. Essay, September, 1921. From *Teaching American History*. https://teachingamericanhistory.org/document/william-e-borah-on-the-necessity-for-naval-disarmament-september-1921/ 
 
 ---
-
-![[William Borah]]

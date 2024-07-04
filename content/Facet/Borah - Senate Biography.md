@@ -1,10 +1,11 @@
 ---
 tags:
   - Facet
+  - Articles
 ---
 # William Borah: A Featured Biography
 
-Senator William E. Borah was affectionately known as the "**Lion of Idaho**" during his 33 years in the United States Senate. Elected as a Republican in 1907, Borah established himself as a prominent progressive with a fiercely independent spirit. This superb orator who had a knack for courting publicity was once named by *Time* magazine as the "most famed senator of the century." Despite his leading role in the creation of two constitutional amendments—*establishing the graduated income tax and the direct election of senators*—Borah is best remembered for his unwavering opposition to the so-called Susan B. Anthony amendment *granting women the right to vote*. As a 10-year chairman of the Foreign Relations Committee, Borah also shaped American foreign policy in the period between the world wars. An isolationist, Borah helped organize opposition to the Treaty of Versailles, which the Senate resoundingly rejected in 1919. In January 1940, Borah suffered a brain hemorrhage and died. His funeral service was held in the U.S. Senate Chamber.
+Senator [[William Borah|William E. Borah]] was affectionately known as the "**Lion of [[Idaho]]**" during his 33 years in the United States Senate. Elected as a Republican in 1907, Borah established himself as a prominent progressive with a fiercely independent spirit. This superb orator who had a knack for courting publicity was once named by *Time* magazine as the "most famed senator of the century." Despite his leading role in the creation of two constitutional amendments—*establishing the graduated income tax and the direct election of senators*—Borah is best remembered for his unwavering opposition to the so-called Susan B. Anthony amendment *granting women the right to vote*. As a 10-year chairman of the Foreign Relations Committee, Borah also shaped American foreign policy in the period between the world wars. An isolationist, Borah helped organize opposition to the Treaty of Versailles, which the Senate resoundingly rejected in 1919. In January 1940, Borah suffered a brain hemorrhage and died. [[Borah - 1940 - "Lion of Idaho" Laid to Rest|His funeral service was held in the U.S. Senate Chamber.]]
 
 ---
 
@@ -18,7 +19,7 @@ Senator William E. Borah was affectionately known as the "**Lion of Idaho**" dur
 
 *To be sure they could answer that question with a resounding "yes," suffrage lobbyists doubled their efforts. Their constant presence at the Capitol irritated lawmakers. Senators complained when suffragists holding banners blocked doorways of the Senate Office Building. Alice Paul patiently explained that the obstruction would continue as long as men continued to block their bill. When suffragists marched down Constitution Avenue and disrupted traffic, Capitol Police arrested them. Senators objected to the “un-American demonstrations” on the Capitol grounds and denounced protestors as “cranks and agitators.” The Washington Post condemned suffragists’ “unlawful assemblages or attacks” on lawmakers as counterproductive. Some suffragists seemed to enjoy provoking the intransigent lawmakers. Determined to see the amendment pass, suffragists ignored the complaints and protests continued unabated.*
 
-Some senators, however, appreciated the effort. Andrieus Jones of New Mexico, chairman of the Senate Committee on Woman Suffrage, relied upon the activists to whip votes for the amendment. It’s likely that he shared with them information that he gathered about colleagues who, having voted no in 1914, may be persuaded to change their vote. At the top of that list, no doubt, was **Senator William Borah**, an influential Republican of [[Idaho]].
+Some senators, however, appreciated the effort. Andrieus Jones of New Mexico, chairman of the Senate Committee on Woman Suffrage, relied upon the activists to whip votes for the amendment. It’s likely that he shared with them information that he gathered about colleagues who, having voted no in 1914, may be persuaded to change their vote. At the top of that list, no doubt, was **Senator [[William Borah]]**, an influential Republican of [[Idaho]].
 
 A commanding presence in the Senate, Borah was known to be combative, obstinate, and vain. Though **he supported suffrage for women**—women in Idaho had enjoyed the right to vote since 1896—he opposed a national suffrage amendment, *insisting it was an issue best left to the states*. When the House approved the measure, Borah immediately announced his opposition. “I am aware…[my position] will lead to much criticism among friends at home,” he wrote a constituent. “I would rather give up the office” than to “cast a vote…I do not believe in.”
 
@@ -45,5 +46,3 @@ The battle was lost, but the war continued. The 66th Congress convened on March 
 [^2] ["Woman Suffrage Centennial" Part III: The Last Trench](https://www.senate.gov/about/women-of-the-senate/part3-the-last-trench.htm). *United States Senate*, U.S. Congress.
 
 ---
-
-![[William Borah]]
