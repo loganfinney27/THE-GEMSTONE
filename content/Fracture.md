@@ -3,12 +3,12 @@ tags:
   - Category
   - Fracture
 ---
-*Divides, breaks, schisms, etc.*
+*breaks, divisions, schisms, etc.*
 
 
 
 ---
 
-An altercation, disagreement, or confrontation that divides a group or organization.
+A crack, split, or divide that divides a group or organization.
 
 ---

@@ -9,6 +9,6 @@ Miscellaneous
 
 ---
 
-Tailings don't just disappear. They must be captured, transported, impounded or removed.
+Tailings don't just disappear. They pile up and must be dealt with.
 
----
+--- 

@@ -37,5 +37,4 @@ In keeping with the tradition established by [[Eleanor Roosevelt]] during the fi
 
 [^2] "[About the Borah Foundation](https://www.uidaho.edu/class/borah/about)". *The Borah Foundation & Symposium*, University of Idaho.
 
-
----
+--- 

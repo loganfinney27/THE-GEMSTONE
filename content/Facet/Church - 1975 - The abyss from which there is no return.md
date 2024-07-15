@@ -19,6 +19,6 @@ Now, why is this investigation important? I'll tell you why, because *I don't wa
 
 ---
 
-[^1] "[The Intelligence Gathering Debate](https://www.youtube.com/watch?v=YAG1N4a84Dk)". *Meet the Press*, NBC. August 18, 1975.
+[^1] Frank Church. "[The Intelligence Gathering Debate](https://www.youtube.com/watch?v=YAG1N4a84Dk)". *Meet the Press*, NBC. August 18, 1975.
 
 ---

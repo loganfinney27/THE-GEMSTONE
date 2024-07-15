@@ -5,10 +5,8 @@ tags:
 ---
 *Horizontal bands of sculpted figures*
 
-Landscapes, places, communities 
-
 ---
 
+Communities are both the landscape and the people living there.
 
-
----
+--- 

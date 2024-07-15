@@ -6,4 +6,6 @@ tags:
 
 ![[lake.jpg]]
 
-# Running or Standing
+# Running and Standing
+
+![[river-desert.jpg]]

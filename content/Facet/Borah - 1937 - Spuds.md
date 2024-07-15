@@ -4,7 +4,6 @@ tags:
   - Photos
 date: 1937-12-06
 ---
-
 ![[idaho-spuds-presented-to-vice-president-washington-dc-dec-6-a-box-of-idahos-1024.jpg]]
 
 ---

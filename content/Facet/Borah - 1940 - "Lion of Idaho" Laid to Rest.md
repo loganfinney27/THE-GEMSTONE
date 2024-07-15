@@ -20,4 +20,4 @@ The hundreds who filed past his coffin in the Senate Chamber displayed just how 
 
 [^1] "['Lion of Idaho' Laid to Rest](https://www.senate.gov/artandhistory/history/minute/Lion_Laid_to_Rest.htm)". *United States Senate*, U.S. Congress.
 
----
+--- 
