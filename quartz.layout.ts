@@ -10,7 +10,6 @@ export const sharedPageComponents: SharedLayout = {
       "HOME": "https://thegemstone.org/",
       "ABOUT": "https://thegemstone.org/about",
       "RSS Text": "https://thegemstone.org/index.xml",
-      "RSS Audio": "https://thegemstone.org/RSS.xml",
     },
   }),
 }
