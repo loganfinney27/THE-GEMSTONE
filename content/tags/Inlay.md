@@ -1,11 +1,8 @@
 ---
 tags:
-  - Category
-  - Inlay
+  - Category/Inlay
 ---
-*Embedded pieces of different materials*
-
-Imagined zine covers in collage
+*Embedded pieces of different materials creating something new*
 
 ---
 

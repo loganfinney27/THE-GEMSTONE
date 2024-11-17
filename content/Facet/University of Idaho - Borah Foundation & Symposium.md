@@ -1,11 +1,10 @@
 ---
 tags:
-  - Facet
-  - Articles
+  - Category/Facet/Articles
 ---
 # Senator William Borah
 
-Born in Illinois in 1865, [[William Borah|William Edgar Borah]] moved to Idaho in 1890 to practice law. By 1892 he was involved in [[Idaho]] state politics, was a part-time secretary for Governor William McConnell and, in 1895, married the governor's daughter, Mary McConnell. In 1907 Borah was elected to the U.S. Senate where he served until his death in 1940. Known for his public speaking skills and his independent and often controversial positions on political issues, he was a strong advocate for peace, disarmament and the major proponent for the outlawry of war.
+Born in Illinois in 1865, [[William Borah|William Edgar Borah]] moved to Idaho in 1890 to practice law. By 1892 he was involved in Idaho state politics, was a part-time secretary for Governor William McConnell and, in 1895, married the governor's daughter, Mary McConnell. In 1907 Borah was elected to the U.S. Senate where he served until his death in 1940. Known for his public speaking skills and his independent and often controversial positions on political issues, he was a strong advocate for peace, disarmament and the major proponent for the outlawry of war.
 
 In 1919 he worked closely with Chicago attorney Salmon O. Levinson on a campaign to outlaw war, proposing that international peace be established by declaring war illegal and creating a judicial substitute for war to resolve disputes and administer legal sanctions. In 1923 he introduced Senate Resolution 441 to outlaw war and create a “judicial substitute for war,” a bill that he reintroduced again in 1926 and 1927 although it never passed.
 
@@ -13,7 +12,7 @@ Senator Borah was instrumental in the passage of the Pact of Paris Treaty (also 
 
 # The Foundation
 
-In 1929 Salmon Levinson established the William Edgar Borah Outlawry of War Foundation at the University of Idaho to honor and continue the work of Idaho Senator William Borah on behalf of peace. In 1931 the Borah Foundation was officially inaugurated at the [[University of Idaho]] by Senator Borah himself and by Dr. Manley Hudson, Professor of International Law at Harvard University. In 1938, the Borah Foundation sponsored its first program, [[E. Roosevelt - 1938 - University of Idaho|an address by Eleanor Roosevelt]], a well known advocate for peace and human rights. To commemorate her visit to the campus, she planted a Douglas fir tree which can still be seen across from the main entrance to the U of I Administration Building.
+In 1929 Salmon Levinson established the William Edgar Borah Outlawry of War Foundation at the University of Idaho to honor and continue the work of Idaho Senator William Borah on behalf of peace. In 1931 the Borah Foundation was officially inaugurated at the [[University of Idaho]] by Senator Borah himself and by Dr. Manley Hudson, Professor of International Law at Harvard University. In 1938, the Borah Foundation sponsored its first program, [[E. Roosevelt - 1938 - University of Idaho|an address by Eleanor Roosevelt]], a well known advocate for peace and human rights. To commemorate her visit to the campus, [[E.-Roosevelt---1938---My-Day.html|she planted a Douglas fir tree]] which can still be seen across from the main entrance to the U of I Administration Building.
 
 # The Symposium
 

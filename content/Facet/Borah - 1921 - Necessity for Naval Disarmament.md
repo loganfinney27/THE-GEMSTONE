@@ -1,7 +1,6 @@
 ---
 tags:
-  - Facet
-  - Speeches
+  - Category/Facet/Speeches
 date: 1921-09-01
 ---
 # Sen. [[William Borah]], (R)-Idaho

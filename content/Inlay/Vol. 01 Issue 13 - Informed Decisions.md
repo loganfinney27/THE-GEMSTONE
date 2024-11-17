@@ -1,7 +1,7 @@
 ---
 tags:
-  - Inlay
+  - Category/Inlay
 ---
-![[INLAY-01-13.jpg]]
+![[content/Images/Inlays/INLAY-01-13.jpg]]
 # Informed Decisions
 ## We Are Left in the Wake Far Short of Learning Responsibility

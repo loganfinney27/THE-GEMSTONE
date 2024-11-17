@@ -1,10 +1,9 @@
 ---
 date: 1913-01-01
 tags:
-  - Facet
-  - Photos
+  - Category/Facet/Photos
 ---
-![[william-e-borah-4.jpg]]
+![[content/Images/william-e-borah-4.jpg]]
 
 ---
 

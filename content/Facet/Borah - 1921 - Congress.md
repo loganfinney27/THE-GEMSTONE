@@ -1,10 +1,9 @@
 ---
 date: 1921-01-01
 tags:
-  - Facet
-  - Photos
+  - Category/Facet/Photos
 ---
-![[hiram-johnson-wm-e-borah.jpg]]
+![[content/Images/hiram-johnson-wm-e-borah.jpg]]
 
 ---
 

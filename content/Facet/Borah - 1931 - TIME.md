@@ -1,10 +1,9 @@
 ---
 tags:
-  - Facet
-  - Magazines
+  - Category/Facet/Magazines
 date: 1931-01-26
 ---
-![[TIMEMagazine26January1931.jpg]]
+![[content/Images/TIMEMagazine26January1931.jpg]]
 
 ---
 

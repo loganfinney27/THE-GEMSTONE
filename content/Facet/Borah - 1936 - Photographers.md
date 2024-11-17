@@ -1,10 +1,9 @@
 ---
 tags:
-  - Facet
-  - Photos
+  - Category/Facet/Photos
 date: 1936-01-01
 ---
-![[william-e-borah-and-photographers.jpg]]
+![[content/Images/william-e-borah-and-photographers.jpg]]
 
 ---
 

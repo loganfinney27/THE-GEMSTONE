@@ -1,12 +1,11 @@
 ---
 date: 0907-01-01
 tags:
-  - Facet
-  - Photos
+  - Category/Facet/Photos
 ---
-![[borah-william-e-senator-from-idaho-1907--4-1024.jpg]]
+![[content/Images/borah-william-e-senator-from-idaho-1907--4-1024.jpg]]
 
-![[borah-william-e-senator-from-idaho-1907--863293-1024.jpg]]
+![[content/Images/borah-william-e-senator-from-idaho-1907--863293-1024.jpg]]
 
 ---
 

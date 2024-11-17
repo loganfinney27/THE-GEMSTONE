@@ -1,8 +1,8 @@
 ---
 tags:
-  - Inlay
+  - Category/Inlay
 ---
-![[INLAY-01-04.jpg]]
+![[content/Images/Inlays/INLAY-01-04.jpg]]
 # (Profitable)
 ## New This Year:
 ### a lot of data on a lot of money.

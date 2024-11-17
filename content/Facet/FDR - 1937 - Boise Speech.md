@@ -1,12 +1,13 @@
 ---
 tags:
-  - Facet
-  - Speeches
+  - Category/Facet/Speeches
 date: 1937-09-27
 ---
-# [[Franklin D. Roosevelt]], 32nd President of the United States,  Remarks at Boise, [[Idaho]]
+# [[Franklin Roosevelt|Franklin D. Roosevelt]], 32nd President of the United States,  Remarks at Boise, Idaho
 
 *September 27, 1937*
+
+>![[content/Images/tumblr_owy638abXW1wc45zao1_640.png]]
 
 Governor Clark; and I am going to say what [[William Borah|Senator Borah]] said, "Friends and neighbors":
 
@@ -17,9 +18,6 @@ And I take it, being a Roosevelt, that you are following the Rooseveltian creed,
 There is something about children and trees that makes me think of permanence and the future. It is not by any means the sole task of the Presidency to think about the present. One of the chief obligations of the Presidency is to think about the future. We have been, in our one hundred and fifty years of constitutional existence, a wasteful nation, a nation that has wasted its natural resources and, very often, wasted its human resources.
 
 One reason why a President of the United States ought to travel throughout the country and become familiar with every State is that he has a great obligation to think about the days when he will no longer be President, to think about the next generation and the generation after that.
-
->![[tumblr_owy638abXW1wc45zao1_640.png]]
->More: [[FDR - 1937 - Boise Motorcade|Photographs]]
 
 That is one reason why I am particularly glad on this trip to see a part of Idaho which I have never seen before. I had travelled through the eastern part of the State and the northern part of the State and now I am seeing something new, something that makes me very proud of this part of the country.
 
@@ -34,3 +32,5 @@ I wish I could physically take the time to spend more days and more weeks going 
 [^1] [Franklin D. Roosevelt, Remarks at Boise, Idaho](https://www.presidency.ucsb.edu/node/208784). Online by Gerhard Peters and John T. Woolley, *The American Presidency Project*. September 27, 1937.
 
 --- 
+
+- [[FDR - 1937 - Boise Motorcade]]

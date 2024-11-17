@@ -1,12 +1,11 @@
 ---
 date: 1921-01-01
 tags:
-  - Facet
-  - Photos
+  - Category/Facet/Photos
 ---
-![[sen-wm-e-borah-1.jpg]]
+![[content/Images/sen-wm-e-borah-1.jpg]]
 
-![[sen-wm-e-borah.jpg]]
+![[content/Images/sen-wm-e-borah.jpg]]
 
 ---
 

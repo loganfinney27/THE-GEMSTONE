@@ -1,7 +1,6 @@
 ---
 tags:
-  - Facet
-  - Articles
+  - Category/Facet/Articles
 date: 1976-03-18
 ---
 # Senator Church Joins Presidential Race

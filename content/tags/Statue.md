@@ -1,11 +1,8 @@
 ---
 tags:
-  - Category
-  - Statue
+  - Category/Statue
 ---
-*Carved statues of people*
-
-Profiles of individuals 
+*Carved statues of individual people*
 
 ---
 
