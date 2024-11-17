@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "HOME": "https://thegemstone.org/",
       "ABOUT": "https://thegemstone.org/about",
-      "RSS Text": "https://thegemstone.org/index.xml",
+      "RSS": "https://thegemstone.org/index.xml",
     },
   }),
 }

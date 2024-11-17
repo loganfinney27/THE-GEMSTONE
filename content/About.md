@@ -2,7 +2,7 @@
 
 ![[IdahoCutDiagram.jpg]]
 
-**The Gemstone** is an independent outlet about [[Idaho]]. Well, it's about much more than that.
+**[[content/index|The Gemstone]]** is an independent outlet about [[Idaho]]. Well, it's about much more than that.
 
 ---
 
