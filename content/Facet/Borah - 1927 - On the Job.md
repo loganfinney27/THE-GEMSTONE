@@ -3,9 +3,9 @@ tags:
   - Category/Facet/Photos
 date: 1927-08-30
 ---
-![[content/Images/senator-borah-stays-on-job-washington-dc-aug-30-while-other-senators-are-resting.jpg]]
+![[senator-borah-stays-on-job-washington-dc-aug-30-while-other-senators-are-resting.jpg]]
 
-![[content/Images/senator-borah-stays-on-job-washington-dc-aug-30-while-other-senators-are-resting-1.jpg]]
+![[senator-borah-stays-on-job-washington-dc-aug-30-while-other-senators-are-resting-1.jpg]]
 
 ---
 

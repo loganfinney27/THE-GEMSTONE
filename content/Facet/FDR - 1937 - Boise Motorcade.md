@@ -5,17 +5,17 @@ date: 1937-09-27
 ---
 *President [[Franklin Roosevelt]], First Lady [[Eleanor Roosevelt]] and Idaho Governor Barzilla Clark*
 
-![[content/Images/tumblr_owly06HHe11wc45zao1_1280.jpg]]
+![[tumblr_owly06HHe11wc45zao1_1280.jpg]]
 
-![[content/Images/tumblr_owm0eci9Gb1wc45zao1_1280.jpg]]
+![[tumblr_owm0eci9Gb1wc45zao1_1280.jpg]]
 
 *Senator [[William Borah|William E. Borah]] and President [[Franklin Roosevelt|Franklin D. Roosevelt]]*
 
-![[content/Images/tumblr_owlwl3gEaG1wc45zao1_1280.jpg]]
+![[tumblr_owlwl3gEaG1wc45zao1_1280.jpg]]
 
 *[[Franklin Roosevelt|FDR]] and First Lady [[Eleanor Roosevelt|Roosevelt]] on the train* 
 
-![[content/Images/tumblr_owx4eg6HZq1wc45zao1_1280.png]]
+![[tumblr_owx4eg6HZq1wc45zao1_1280.png]]
 
 ---
 

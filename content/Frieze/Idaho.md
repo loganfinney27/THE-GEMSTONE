@@ -7,7 +7,7 @@ aliases:
 ---
 # The Gem State
 
-![[content/Images/Idaho.png]]
+![[Idaho.png]]
 
 ---
 

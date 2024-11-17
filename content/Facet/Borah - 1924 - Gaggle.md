@@ -3,9 +3,9 @@ tags:
   - Category/Facet/Photos
 date: 1924-06-11
 ---
-![[content/Images/borah-61124-1.jpg]]
+![[borah-61124-1.jpg]]
 
-![[content/Images/borah-61124.jpg]]
+![[borah-61124.jpg]]
 
 --- 
 

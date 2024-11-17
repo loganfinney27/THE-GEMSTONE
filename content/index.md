@@ -2,6 +2,7 @@
 title: The Gemstone
 aliases:
   - Home
+  - The Gemstone
 ---
 ![[gemstone-header.jpg]]
 

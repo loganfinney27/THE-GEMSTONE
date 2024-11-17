@@ -3,7 +3,7 @@ tags:
   - Category/Facet/Photos
 date: 1938-12-01
 ---
-![[content/Images/examine-first-evidence-offered-to-monopoly-committee-washington-dc-dec-1-senator-1024.jpg]]
+![[examine-first-evidence-offered-to-monopoly-committee-washington-dc-dec-1-senator-1024.jpg]]
 
 ---
 

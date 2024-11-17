@@ -7,7 +7,7 @@ date: 1937-09-27
 
 *September 27, 1937*
 
->![[content/Images/tumblr_owy638abXW1wc45zao1_640.png]]
+>![[tumblr_owy638abXW1wc45zao1_640.png]]
 
 Governor Clark; and I am going to say what [[William Borah|Senator Borah]] said, "Friends and neighbors":
 

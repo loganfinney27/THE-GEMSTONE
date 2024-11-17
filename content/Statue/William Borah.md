@@ -11,7 +11,7 @@ Republican Idaho U.S. Senator
 
 # The Lion of Idaho
 
-![[content/Images/william-e-borah-at-white-house-washington-dc-1024.jpg]]
+![[william-e-borah-at-white-house-washington-dc-1024.jpg]]
 
 >[!quote]
 >If the press is not free; if speech is not independent and untrammeled; if the mind is shackled or made impotent through fear, it makes no difference under what form of government you live, you are a subject and not a citizen.

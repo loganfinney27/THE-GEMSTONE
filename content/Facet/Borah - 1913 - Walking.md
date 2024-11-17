@@ -3,7 +3,7 @@ date: 1913-01-01
 tags:
   - Category/Facet/Photos
 ---
-![[content/Images/william-e-borah-4.jpg]]
+![[william-e-borah-4.jpg]]
 
 ---
 

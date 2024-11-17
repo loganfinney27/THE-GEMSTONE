@@ -2,12 +2,12 @@
 tags:
   - Category/Facet/Photos
 ---
-![[content/Images/Marilyn-Monroe-potato-sack.jpg]]
+![[Marilyn-Monroe-potato-sack.jpg]]
 
-![[content/Images/Marilyn-Monroe-potato-sack-1.jpg]]
+![[Marilyn-Monroe-potato-sack-1.jpg]]
 
-![[content/Images/marilyn-monroe-potato-sack-dress.jpg]]
+![[marilyn-monroe-potato-sack-dress.jpg]]
 
-![[content/Images/marilyn-monroe-idaho-potatoes.jpg]]
+![[marilyn-monroe-idaho-potatoes.jpg]]
 
 ---

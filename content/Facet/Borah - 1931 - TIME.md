@@ -3,7 +3,7 @@ tags:
   - Category/Facet/Magazines
 date: 1931-01-26
 ---
-![[content/Images/TIMEMagazine26January1931.jpg]]
+![[TIMEMagazine26January1931.jpg]]
 
 ---
 
