@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Cut
+  - Category
 ---
 *An assembly of facets* 
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Tailing
+  - Category
 ---
 *Miscellaneous rubble and waste*
 

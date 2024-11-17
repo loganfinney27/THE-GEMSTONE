@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Fracture
+  - Category
 ---
 *Differences, divides, schisms, breaks*
 

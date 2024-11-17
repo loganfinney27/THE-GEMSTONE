@@ -1,6 +1,6 @@
 ---
 tags:
-  - Category/Facet
+  - Category
 ---
 *A particular side or aspect*
 
