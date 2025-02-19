@@ -5,9 +5,9 @@ aliases:
   - The Gem State
   - State of Idaho
 ---
-# The Gem State
-
 ![[Idaho.png]]
+
+# The Gem State
 
 ---
 
