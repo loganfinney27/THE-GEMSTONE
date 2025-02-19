@@ -5,10 +5,10 @@ aliases:
   - Franklin D. Roosevelt
   - FDR
 ---
-Democratic President of the United States 
+![[content/Images/tumblr_owx4eg6HZq1wc45zao1_1280.png]]
 
 # FDR
 
-![[tumblr_owlwl3gEaG1wc45zao1_1280.jpg]]
+Democratic President of the United States 
 
 ---

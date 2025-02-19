@@ -5,8 +5,9 @@ aliases:
   - Eleanor
   - Mrs. Roosevelt
 ---
+![[Spec UIHP 165.jpg]]
 # First Lady of the United States
 
-![[tumblr_owx4eg6HZq1wc45zao1_1280.png]]
+Wife to [[Franklin Roosevelt|Franklin D. Roosevelt]]
 
 ---

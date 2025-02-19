@@ -4,10 +4,8 @@ aliases:
 tags:
   - Category/Statue
 ---
-# The Trust Buster
-
 ![[Theodore Roosevelt Portrait.jpg]]
 
----
+# The Trust Buster
 
-- [[Teddy - 1911 - University of Idaho]] 
+---
